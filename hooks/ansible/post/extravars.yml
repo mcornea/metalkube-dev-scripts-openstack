@@ -1,0 +1,9 @@
+---
+test_os_client_config: '~/.config/openstack/clouds.yaml'
+test_os_client_profile: 'rdocloud'
+test_os_keypair: 'keypair'
+test_os_image: 'CentOS-7-x86_64-GenericCloud-1804_02'
+test_os_image_ipxe: 'ipxe-boot'
+dev_scripts_repo: "https://github.com/mcornea/dev-scripts.git"
+dev_scripts_branch: "dev_scripts_rdocloud"
+openshift_secret: ''
