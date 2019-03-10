@@ -9,3 +9,5 @@
 - `git clone https://github.com/mcornea/metalkube-dev-scripts-openstack.git .`
 - `## set credentials in hooks/ansible/post/extravars.yml`
 - `./deploy.sh`
+
+![alt text](https://raw.githubusercontent.com/mcornea/metalkube-dev-scripts-openstack/master/rhhi-openstack.png)
